@@ -2,7 +2,7 @@
 - 👀 I’m interested in Lenguages
 - 🌱 I’m currently learning JavaScript & Python
 - 💞️ I’m looking to collaborate on NASA
-- 📫 How to reach me ruedaperezmarianoalejandro@gmail.com
+- 📫 How to reach me ruedaperezmarianoalejandro@gmail.com, alejandrocreaono01101001@gmail.com
 
 <!---
 Alejandro-git-cloud/Alejandro-git-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
